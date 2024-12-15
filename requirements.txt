@@ -1,0 +1,4 @@
+fastapi>=0.63.0
+uvicorn>=0.13.0
+pandas>=1.1.0
+groq>=0.1.0 
